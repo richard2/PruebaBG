@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">PruebaBG</string>
+
+    <string name="lbl_usuario">Usuario</string>
+    <string name="lbl_contrasenia">Contraseña</string>
+    <string name="lbl_ingresar">Ingresar</string>
+    <string name="lbl_cargando">Cargando...</string>
+    <string name="lbl_aceptar">Aceptar</string>
+    <string name="lbl_cancelar">Cancelar</string>
+    <string name="lbl_seguir">SEGUIR</string>
+    <string name="lbl_enviar">Enviar</string>
+    <string name="lbl_extension">.txt</string>
+    <string name="lbl_permitir">Permitir</string>
+    <string name="lbl_completar">Por favor ingrese usuario/contraseña antes de continuar.</string>
+    <string name="lbl_completar_campos">Por favor ingrese todos los datos antes de continuar.</string>
+    <string name="lbl_seleccionar_pais">Seleccionar país</string>
+    <string name="lbl_seleccione_filtra">Seleccione Rango</string>
+    <string name="lbl_recuperar">Recuperar contraseña</string>
+    <string name="lbl_reintentar">REINTENTAR</string>
+    <string name="lbl_cambio_clave_correcta">Se cambio de clave correctamente</string>
+    <string name="lbl_error_default">Ha ocurrido un error por favor intente nuevamente</string>
+    <string name="lbl_no_internet">Por favor asegúrese de tener una conexión a INTERNET</string>
+    <string name="lbl_despachos_asignados">Despachos\nAsignados</string>
+    <string name="lbl_despachos_realizados">Despachos\nRealizados</string>
+    <string name="lbl_cambiar_clave">Cambiar\nClave</string>
+    <string name="lbl_recuperar_clave_title">Recuperar contraseña</string>
+    <string name="lbl_recuperar_clave">Para recuperar su clave, ingrese su usuario o el correo electrónico asociado.</string>
+    <string name="lbl_recuperar_clave_nueva">Para recuperar su clave, ingrese su nueva contraseña y confirme la misma, luego pulse el botón Enviar.</string>
+    <string name="lbl_active_gps">Por favor active su GPS...</string>
+    <string name="lbl_error_gps">Es necesario que permitas tu localización</string>
+    <string name="lbl_error_camera">Es necesario que permitas el acceso a tu cámara</string>
+    <string name="lbl_error_galeria">Es necesario que permitas el acceso a tu cámara</string>
+
+    <string name="lbl_despachos_asignados_no_break">Despachos Asignados</string>
+    <string name="lbl_despachos_realizados_no_break">Despachos Realizados</string>
+    <string name="lbl_cambiar_clave_no_break">Cambiar Clave</string>
+    <string name="lbl_cerrar_sesion">Cerrar Sesión</string>
+    <string name="lbl_ecuador">Ecuador</string>
+    <string name="lbl_peru">Perú</string>
+    <string name="lbl_confirmar">Confirmar</string>
+    <string name="lbl_confirmar_cerrar_sesion">¿Está seguro de cerrar sesión?</string>
+    <string name="lbl_confirmar_borrar_foto">¿Está seguro que desea eliminar el registro?</string>
+    <string name="lbl_si">SÍ</string>
+    <string name="lbl_no">NO</string>
+    <string name="lbl_lugares">Lugares</string>
+    <string name="lbl_usuario_correo">Usuario/Correo</string>
+    <string name="lbl_contrasenia_actual">Contraseña actual</string>
+    <string name="lbl_nueva_contrasenia">Nueva contraseña</string>
+    <string name="lbl_confirmar_contrasenia">Confirmar contraseña</string>
+    <string name="lbl_location">LOCALIZACIÓN</string>
+    <string name="lbl_location_coment">Necesitamos acceso a tu ubicación, por favor enciende el GPS de tu dispositivo y presiona el botón para continuar</string>
+    <string name="lbl_camera">ACCESO A TU CÁMARA</string>
+    <string name="lbl_camera_coment">Nos gustaría acceder a tu cámara para tomar fotografías, por favor presiona el botón para continuar</string>
+
+    <string name="lbl_contrasenia_actual2">Contraseña actual*</string>
+    <string name="lbl_empty"> - </string>
+    <string name="lbl_nueva_contrasenia2">Nueva contraseña*</string>
+    <string name="lbl_confirmar_contrasenia2">Confirmar contraseña*</string>
+    <string name="lbl_no_coinciden">Las nuevas contraseñas no coinciden por favor asegúrese de que sean iguales</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_header_title">Administrador</string>
+    <string name="nav_header_subtitle">admin@carsegsa.com</string>
+    <string name="error_camera">No se puedo captura imagen, por favor intente nuevamente</string>
+    <string name="error_guardar_image">No se puedo guardar imagen, por favor intente nuevamente</string>
+    <string name="error_actualizar_image">No se pudo actualizar, por favor intente nuevamente</string>
+    <string name="error_eliminar_image">No se pudo eliminar, por favor intente nuevamente</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="img_description">Descripcion imagen</string>
+    <string name="lbl_agregar">Guardar</string>
+    <string name="lbl_actualizar">Actualizar</string>
+    <string name="lbl_eliminar">Eliminar</string>
+    <string name="lbl_comentario">Comentario</string>
+    <string name="lbl_ver">VER</string>
+    <string name="lbl_observacion">Observación del caso</string>
+    <string name="lbl_buscar">Buscar</string>
+
+    <string name="lbl_entrega">Entrega</string>
+    <string name="lbl_cliete">Cliente</string>
+    <string name="lbl_lugar">Lugar</string>
+    <string name="lbl_emitido">Emitido</string>
+    <string name="lbl_pedido">Pedido</string>
+    <string name="lbl_status">Status</string>
+    <string name="lbl_deuracion_estimada">Duración Estimada</string>
+    <string name="lbl_finalizar">Finalizar</string>
+    <string name="lbl_tomar_foto">Tomar\nFoto</string>
+    <string name="lbl_no_imgen">NO HAY FOTOS SELECCIONADAS</string>
+    <string name="lbl_no_informacion">NO HAY INFORMACIÓN</string>
+
+    <string name="lbl_detalle_pedido">Detalle pedido</string>
+    <string name="lbl_galeria_fotos">Galeria Fotos</string>
+    <string name="lbl_cantidad">Cantidad</string>
+    <string name="lbl_unidad">Unidad</string>
+
+    <string name="pick_all_photo">Todas las Fotos</string>
+    <string name="pick_photos">Foto</string>
+    <string name="pick_pick">Seleccione</string>
+    <string name="pick_photo_size">(%1$s)</string>
+    <string name="pick_photo_size_limit">Máximo %1$s foto</string>
+    <string name="pick_photo_cancel">cancelar</string>
+    <string name="pick_photo_sure"></string>
+    <string name="lbl_pendiente_envio">PENDIENTE DE ENVIO</string>
+    <string name="lbl_no_data">No ha realizado ningún despacho</string>
+    <string name="lbl_envio_correctamente">Se a realizado el envío correctamente</string>
+
+
+    <string name="lbl_clear">LIMPIAR</string>
+    <string name="lbl_save">GRABAR</string>
+    <string name="lbl_firma">Firma</string>
+
+    <string name="lbl_total_viajes">TOTAL\nDE VIAJES</string>
+    <string name="lbl_vehiculos_asignados">VEHÍCULOS\nASIGNADOS</string>
+    <string name="lbl_puntos_asignados">VISITAS\nPLANIFICADAS</string>
+    <string name="lbl_puntos_real">VISITAS\nREALIZADAS</string>
+    <string name="lbl_no_visitados">VISITAS\nNO REALIZADAS</string>
+    <string name="lbl_cumplimiento_flota">CUMPLIMIENTO\nDE FLOTA</string>
+
+    <string name="lbl_resumen_cumplimiento">"RESUMEN DE CUMPLIMIENTO</string>
+
+    <string name="lbl_planificadas">PLANIFICADAS</string>
+    <string name="lbl_reales">RUTAS REALES</string>
+    <string name="lbl_no_planificadas">NO PLANIFICADAS</string>
+
+
+
+</resources>
